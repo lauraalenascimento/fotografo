@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.modal{
+    background-color: #a3a1a1;
+}
+.caixa-modal{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 20px;
+    
+    
+}
+.jj{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.chavemodal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1000px;
+    
+}
+input{
+    margin-top: 10px;
+    width: 440px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-left: 25px;
+    
+   
+}
+.form{
+    margin-top: 20px;
+    text-align: center;
+}
+.mensagem{
+  height: 150px;
+}
+.btncancelar{
+    width: 120px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-color:#000 ;
+    color: #fff;
+}
+.btnenviar{
+    width: 120px;
+    height: 30px;
+    border-radius: 30px;
+    border: 2px solid black;
+    margin-left: 200px;
+}
+
+
